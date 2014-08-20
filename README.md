@@ -4,11 +4,32 @@ sublime-text-packages
 web development sublime text 3 packages
 (optimized for Ubuntu/Debian systems)
 
-# 1. Installation of SublimeText3
+# Packages included
+
+- tag
+- GitGutter
+- Phpcs
+- SassBeautify
+- SublimeCodeIntel
+- SublimeLinter
+- Auto Semi-Colon
+- CSS Extended Completions
+- DocBlockr
+- Emmet
+- GotoDocumentation
+- PHPUnit Completions
+- PHPUnit
+- Package Control
+- PhpNamespace
+- SideBarEnhancements
+- Tag
+- Twig
+
+# Installation of SublimeText3
 
 http://www.sublimetext.com/3
 
-# 2. Installation of plugins
+# Installation of plugins
 
     cd ~/.config/sublime-text-3
     git init
