@@ -6,7 +6,6 @@ web development sublime text 3 packages
 
 # Packages included
 
-- tag
 - GitGutter
 - Phpcs
 - SassBeautify
