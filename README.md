@@ -33,3 +33,4 @@ Then copy-paste this contents into the file and save:
     	"translate_tabs_to_spaces": true,
     	"trim_trailing_white_space_on_save": true
     }
+
