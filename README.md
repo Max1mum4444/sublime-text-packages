@@ -11,4 +11,6 @@ http://www.sublimetext.com/3
 # 2. Installation of plugins
 
     cd ~/.config/sublime-text-3
-    git clone git@github.com:{YOUR_GITHUB_NICKNAME}/sublime-text-packages.git
+    git init
+    git remote add origin git@github.com:{YOUR_GITHUB_NICKNAME}/sublime-text-packages.git
+    git pull origin master
