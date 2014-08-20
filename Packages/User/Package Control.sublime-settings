@@ -9,6 +9,7 @@
 		"PhpNamespace",
 		"PHPUnit",
 		"PHPUnit Completions",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Twig"
 	]
 }
